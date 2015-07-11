@@ -7,7 +7,7 @@ public class BeanA {
 	public BeanA() {
 		
 	}
-	
+	///sss
 	private int prop1;
 	private BeanB beanb;
 	private Calendar calendar;
